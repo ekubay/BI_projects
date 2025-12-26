@@ -1,5 +1,5 @@
 # Enterprise Sales Analytics — Power BI
-
+![Data Model](screenshots/BI_Data_Model.png)
 ## Overview
 An end-to-end Power BI solution designed to monitor sales performance,
 identify top and bottom products, and enable self-service analytics
