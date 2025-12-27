@@ -20,6 +20,6 @@ using natural language queries.
 - Power Query
 
 ## Screenshots
-![Overview](screenshots/overview.png)
-![Drillthrough](screenshots/drillthrough.png)
+![Overview](screenshots/Overview.png)
+![Drillthrough](screenshots/KPIs.png)
 ![Q&A](screenshots/qna.png)
