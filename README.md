@@ -21,5 +21,5 @@ using natural language queries.
 
 ## Screenshots
 ![Overview](screenshots/Overview.png)
-![Drillthrough](screenshots/KPIs.png)
-![Q&A](screenshots/qna.png)
+![Drillthrough](screenshots/Drills.png)
+![Q&A](screenshots/Q&A-chat.png)
